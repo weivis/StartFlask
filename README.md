@@ -1,0 +1,2 @@
+# StartFlask
+用于快速搭建Flask项目的IDE 通过图形界面构建Flask项目和路由蓝图模块一键生成项目
